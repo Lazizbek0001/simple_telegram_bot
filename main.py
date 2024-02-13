@@ -2,7 +2,7 @@ import logging
 from aiogram import Bot, Dispatcher, executor, types
 from buttons import *
 
-API_TOKEN = '6374771635:AAGIq-NEyuBWV9FdpTZN73yHkafa3wApgYQ'
+API_TOKEN = 'Your bot token'
 
 bot =Bot(token=API_TOKEN)
 dp=Dispatcher(bot)
